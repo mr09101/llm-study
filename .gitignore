@@ -1,5 +1,4 @@
 # Created by venv; see https://docs.python.org/3/library/venv.html
-*
 
 # Python
 __pycache__/
@@ -38,3 +37,7 @@ ENV/
 
 # Environment variables
 .env
+
+# Large files
+*.exe
+chroma_db/
