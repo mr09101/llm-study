@@ -1,5 +1,10 @@
 # Created by venv; see https://docs.python.org/3/library/venv.html
 
+# 무시할 폴더
+Scripts/
+share/
+Include/
+
 # Python
 __pycache__/
 *.py[cod]
