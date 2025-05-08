@@ -6,9 +6,11 @@
 ```
 .
 ├── 1.langchain_llm_test.ipynb    # 테스트용 Jupyter 노트북
+├── 2.rag_with_chroma.ipynb       # RAG 시스템 구현 노트북
 ├── Scripts/                      # Python 스크립트
 ├── share/                        # 공유 리소스
-└── 2024-04-29_study_summary.md   # 학습 진행 상황 및 노트
+├── 2024-04-29_study_summary.md   # 학습 진행 상황 및 노트
+└── 2024-04-30_study_summary.md   # RAG 시스템 구현 요약
 ```
 
 ## 개발 환경
@@ -52,6 +54,7 @@ jupyter notebook
 
 ## 학습 자료
 - `2024-04-29_study_summary.md`에서 일일 진행 상황과 주요 학습 내용 확인
+- `2024-04-30_study_summary.md`에서 RAG 시스템 구현 내용 확인
 - Jupyter 노트북에서 실용적인 예제와 코드 스니펫 확인
 
 ## 기여하기
